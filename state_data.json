@@ -1,0 +1,512 @@
+{
+  "Alabama": {
+    "state_agency": "https://dhr.alabama.gov/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact your local county Department of Human Resources office or the state adoption unit. Home study and training required for foster-to-adopt.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search and filter by Alabama. Not all waiting children are photolisted."
+  },
+  "Alaska": {
+    "state_agency": "https://dhss.alaska.gov/ocs/Pages/adoption/default.aspx",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "State-administered system. Contact the Office of Children's Services for foster-to-adopt information and home study.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Alaska."
+  },
+  "Arizona": {
+    "state_agency": "https://dcs.az.gov/foster",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Child Safety for foster care and adoption. Home study required.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Arizona has additional heart gallery resources in some areas."
+  },
+  "Arkansas": {
+    "state_agency": "https://humanservices.arkansas.gov/divisions-shared-services/children-family-services/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Division of Children and Family Services for foster-to-adopt pathways.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Arkansas waiting children."
+  },
+  "California": {
+    "state_agency": "https://www.cdss.ca.gov/adoption",
+    "county_administered": true,
+    "county_finder": "https://www.cdss.ca.gov/county-offices",
+    "public_processes": "County-administered system. Contact your local county child welfare office. Home study required. Priority often given to relatives and current foster parents.",
+    "private_processes": "Search licensed private agencies through state resources.",
+    "private_link": "https://www.cdss.ca.gov/adoption",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Large foster care system with many sibling groups and older youth. Some counties have local photolists."
+  },
+  "Colorado": {
+    "state_agency": "https://cdhs.colorado.gov/adoption",
+    "county_administered": true,
+    "county_finder": "https://cdhs.colorado.gov/counties",
+    "public_processes": "County-administered. Contact your county human services department for foster-to-adopt information.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Colorado."
+  },
+  "Connecticut": {
+    "state_agency": "https://portal.ct.gov/dcf",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Children and Families for foster care and adoption services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Connecticut has heart gallery resources."
+  },
+  "Delaware": {
+    "state_agency": "https://kids.delaware.gov/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Services for Children, Youth and Their Families.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Delaware waiting children."
+  },
+  "District of Columbia": {
+    "state_agency": "https://cfsa.dc.gov/service/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Child and Family Services Agency (CFSA) for foster-to-adopt options in DC.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by District of Columbia."
+  },
+  "Florida": {
+    "state_agency": "https://www.myflfamilies.com/services/child-family/foster-care-adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Children and Families or your local community-based care lead agency.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Florida has a large foster care system with many waiting children."
+  },
+  "Georgia": {
+    "state_agency": "https://dfcs.georgia.gov/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Division of Family & Children Services for foster-to-adopt information.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Georgia waiting children."
+  },
+  "Hawaii": {
+    "state_agency": "https://dhs.hawaii.gov/ssd/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Human Services for adoption services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Hawaii."
+  },
+  "Idaho": {
+    "state_agency": "https://healthandwelfare.idaho.gov/services-programs/children-and-families/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Health and Welfare.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Idaho waiting children."
+  },
+  "Illinois": {
+    "state_agency": "https://www.dcfs.illinois.gov/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Children and Family Services for foster-to-adopt.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Illinois has a significant number of waiting children."
+  },
+  "Indiana": {
+    "state_agency": "https://www.in.gov/dcs/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Child Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Indiana."
+  },
+  "Iowa": {
+    "state_agency": "https://dhs.iowa.gov/services/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Human Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Iowa waiting children."
+  },
+  "Kansas": {
+    "state_agency": "https://www.dcf.ks.gov/Services/Pages/Adoption.aspx",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department for Children and Families.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Kansas."
+  },
+  "Kentucky": {
+    "state_agency": "https://www.chfs.ky.gov/agencies/dcbs/dpp/Pages/default.aspx",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department for Community Based Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Kentucky waiting children."
+  },
+  "Louisiana": {
+    "state_agency": "https://www.dcfs.louisiana.gov/page/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Children and Family Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Louisiana."
+  },
+  "Maine": {
+    "state_agency": "https://www.maine.gov/dhhs/ocfs/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Office of Child and Family Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Maine waiting children."
+  },
+  "Maryland": {
+    "state_agency": "https://dhs.maryland.gov/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Human Services or your local department.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Maryland."
+  },
+  "Massachusetts": {
+    "state_agency": "https://www.mass.gov/info-details/adoption-in-massachusetts",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Children and Families.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Massachusetts waiting children."
+  },
+  "Michigan": {
+    "state_agency": "https://www.michigan.gov/mdhhs/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Health and Human Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Michigan."
+  },
+  "Minnesota": {
+    "state_agency": "https://mn.gov/dhs/people-we-serve/children-and-families/adoption/",
+    "county_administered": true,
+    "county_finder": "https://mn.gov/dhs/people-we-serve/children-and-families/services/child-protection/contact-us/",
+    "public_processes": "County-administered system. Contact your local county human services office for foster-to-adopt.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Minnesota waiting children."
+  },
+  "Mississippi": {
+    "state_agency": "https://www.mdhs.ms.gov/families-and-children/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Human Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Mississippi."
+  },
+  "Missouri": {
+    "state_agency": "https://dss.mo.gov/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Social Services / Children's Division.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Missouri waiting children."
+  },
+  "Montana": {
+    "state_agency": "https://dphhs.mt.gov/cfsd/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Public Health and Human Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Montana."
+  },
+  "Nebraska": {
+    "state_agency": "https://dhhs.ne.gov/Pages/Adoption.aspx",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Health and Human Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Nebraska waiting children."
+  },
+  "Nevada": {
+    "state_agency": "https://dcfs.nv.gov/Programs/CWS/Adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Hybrid system – contact your county or the Division of Child and Family Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Nevada."
+  },
+  "New Hampshire": {
+    "state_agency": "https://www.dhhs.nh.gov/programs-services/children/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Health and Human Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search New Hampshire waiting children."
+  },
+  "New Jersey": {
+    "state_agency": "https://www.nj.gov/dcf/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Children and Families.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by New Jersey."
+  },
+  "New Mexico": {
+    "state_agency": "https://cyfd.nm.gov/childrens-and-family-services/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Children, Youth and Families Department.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search New Mexico waiting children."
+  },
+  "New York": {
+    "state_agency": "https://ocfs.ny.gov/programs/adoption/",
+    "county_administered": true,
+    "county_finder": "https://ocfs.ny.gov/main/localoffices/",
+    "public_processes": "County-administered system. Contact your local county Department of Social Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "New York has county-specific resources in addition to AdoptUSKids."
+  },
+  "North Carolina": {
+    "state_agency": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/adoption",
+    "county_administered": true,
+    "county_finder": "https://www.ncdhhs.gov/divisions/child-and-family-well-being/county-dss-directory",
+    "public_processes": "County-administered. Contact your local county Department of Social Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by North Carolina."
+  },
+  "North Dakota": {
+    "state_agency": "https://www.nd.gov/dhs/services/child-family/adoption/",
+    "county_administered": true,
+    "county_finder": "https://www.nd.gov/dhs/locations/county-social-services/",
+    "public_processes": "County-administered system. Contact your local county social services office.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search North Dakota waiting children."
+  },
+  "Ohio": {
+    "state_agency": "https://fosterandadopt.dcy.ohio.gov/",
+    "county_administered": true,
+    "county_finder": "https://fosterandadopt.dcy.ohio.gov/county-offices",
+    "public_processes": "County-administered. Contact your local county children services agency.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Ohio has dedicated adoption profiles and photolists."
+  },
+  "Oklahoma": {
+    "state_agency": "https://oklahoma.gov/okdhs/services/adoption.html",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Human Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Oklahoma."
+  },
+  "Oregon": {
+    "state_agency": "https://www.oregon.gov/dhs/CHILDREN/ADOPTION/Pages/index.aspx",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Human Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Oregon waiting children."
+  },
+  "Pennsylvania": {
+    "state_agency": "https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids",
+    "county_administered": true,
+    "county_finder": "https://www.pa.gov/agencies/dhs/resources/adopt-pa-kids",
+    "public_processes": "County-administered system. Contact your local county children and youth agency.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Pennsylvania."
+  },
+  "Rhode Island": {
+    "state_agency": "https://dcyf.ri.gov/adoption.php",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Children, Youth and Families.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Rhode Island waiting children."
+  },
+  "South Carolina": {
+    "state_agency": "https://dss.sc.gov/child-well-being/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Social Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by South Carolina."
+  },
+  "South Dakota": {
+    "state_agency": "https://dss.sd.gov/cfs/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Social Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search South Dakota waiting children."
+  },
+  "Tennessee": {
+    "state_agency": "https://www.tn.gov/dcs/adoption.html",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Children's Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Tennessee."
+  },
+  "Texas": {
+    "state_agency": "https://www.dfps.texas.gov/Child_Protection/children_in_our_care.asp",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Family and Protective Services. Some regions have additional local resources.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://www.dfps.texas.gov/Adoption/",
+    "photolist_link": "https://www.dfps.texas.gov/application/tare/search.aspx/children",
+    "waiting_notes": "Texas maintains its own searchable waiting children database in addition to AdoptUSKids."
+  },
+  "Utah": {
+    "state_agency": "https://dcfs.utah.gov/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Division of Child and Family Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Utah waiting children."
+  },
+  "Vermont": {
+    "state_agency": "https://dcf.vermont.gov/foster-adopt",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department for Children and Families.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Vermont."
+  },
+  "Virginia": {
+    "state_agency": "https://www.dss.virginia.gov/family/adoption/",
+    "county_administered": true,
+    "county_finder": "https://www.dss.virginia.gov/localagency/",
+    "public_processes": "County-administered system. Contact your local Department of Social Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Virginia waiting children."
+  },
+  "Washington": {
+    "state_agency": "https://www.dcyf.wa.gov/services/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Children, Youth, and Families.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Washington."
+  },
+  "West Virginia": {
+    "state_agency": "https://dhhr.wv.gov/bcf/Pages/default.aspx",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Bureau for Children and Families.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search West Virginia waiting children."
+  },
+  "Wisconsin": {
+    "state_agency": "https://dcf.wisconsin.gov/adoption",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Hybrid system – contact your county or the Department of Children and Families.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids national search filtered by Wisconsin."
+  },
+  "Wyoming": {
+    "state_agency": "https://dfs.wyo.gov/adoption/",
+    "county_administered": false,
+    "county_finder": "",
+    "public_processes": "Contact the Department of Family Services.",
+    "private_processes": "Search licensed private agencies or attorneys. Home study still required.",
+    "private_link": "https://adoptioncouncil.org/directory/",
+    "photolist_link": "https://adoptuskids.org/meet-the-children/search-for-children/search",
+    "waiting_notes": "Use AdoptUSKids to search Wyoming waiting children."
+  }
+}
